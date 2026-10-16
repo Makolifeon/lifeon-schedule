@@ -1,0 +1,11 @@
+{
+  "name": "Life On Schedule",
+  "short_name": "Life On",
+  "description": "日程調整・空き時間共有",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7fa",
+  "theme_color": "#1677bb",
+  "icons": []
+}
